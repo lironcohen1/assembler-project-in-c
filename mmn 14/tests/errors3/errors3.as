@@ -12,7 +12,7 @@ mcro m1      ERROR
 	;another comment line
 	
 	
-end mcro
+endmcro
 
 m1
 
