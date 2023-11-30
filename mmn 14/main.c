@@ -5,9 +5,7 @@
  we are calling the functions that are coding the file if is correct, 
  or will get an error messeges to the stdout if is not.
 
- Liron Cohen - 206350399
- Elad Harel - 319009643 
-
+ Name - Liron Cohen 
 **********************************************************************************/
 
 
